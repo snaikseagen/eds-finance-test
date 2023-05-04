@@ -1,6 +1,6 @@
-<mxfile modified="2023-05-04T20:37:26.475Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="pB6D2B-SD-bS9YJK9gM8" version="21.2.7" type="github" pages="2">
+<mxfile modified="2023-05-04T20:52:25.817Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="EXK4Epv9gCJbYDbI-zK_" version="21.2.7" type="github" pages="2">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1500" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="2264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,8 @@
         <mxCell id="UWAeOtXcjbo03p9l9-68-43" value="workload" style="whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rounded=0;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="740" y="411" width="370" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="UWAeOtXcjbo03p9l9-68-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="474.5" width="120.25" height="120.25" as="geometry" />
+        <mxCell id="UWAeOtXcjbo03p9l9-68-45" value="snet-app" style="whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;dashed=1;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="800" y="474.5" width="145.5" height="145.5" as="geometry" />
         </mxCell>
         <mxCell id="UWAeOtXcjbo03p9l9-68-23" value="Transit" style="whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rounded=0;align=right;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="228.48" y="230" width="370" height="370" as="geometry" />
@@ -93,7 +93,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UWAeOtXcjbo03p9l9-68-27" value="storage" style="whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rounded=0;verticalAlign=top;align=right;" parent="1" vertex="1">
-          <mxGeometry x="228.86" y="710" width="360" height="360" as="geometry" />
+          <mxGeometry x="228.86" y="710" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="UWAeOtXcjbo03p9l9-68-28" value="Virtual Network" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="697" width="50" height="28.499999999999996" as="geometry" />
@@ -174,8 +174,8 @@
         <mxCell id="UWAeOtXcjbo03p9l9-68-63" value="Key Vault" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="821.4100000000001" y="690" width="39" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="UWAeOtXcjbo03p9l9-68-65" value="Virtual Network 1 -&lt;h2 style=&quot;font-size: 24px; margin: 0px 16px 0px 0px; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); outline: none !important;&quot; aria-describedby=&quot;1a61316c-0b7f-4eec-aa58-bc8c82b0a5b8&quot; id=&quot;1a61316c-0b7f-4eec-aa58-bc8c82b0a5b9&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;vnet-eds-transit-westus3-dev&lt;/h2&gt;&lt;div&gt;Subnet 1- Firewall Subnet&lt;/div&gt;&lt;div&gt;Subnet 2- VPN Gateway&lt;/div&gt;&lt;div&gt;Subnet 3- bastion host&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="92.71000000000001" y="30" width="370" height="140" as="geometry" />
+        <mxCell id="UWAeOtXcjbo03p9l9-68-65" value="Virtual Network 1 -&lt;h2 style=&quot;font-size: 24px; margin: 0px 16px 0px 0px; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); outline: none !important;&quot; aria-describedby=&quot;1a61316c-0b7f-4eec-aa58-bc8c82b0a5b8&quot; id=&quot;1a61316c-0b7f-4eec-aa58-bc8c82b0a5b9&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;vnet-eds-hub-westus3-dev&lt;/h2&gt;&lt;div&gt;Subnet 1- Firewall Subnet&lt;/div&gt;&lt;div&gt;Subnet 2- VPN Gateway&lt;/div&gt;&lt;div&gt;Subnet 3- bastion host&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="107.71000000000001" y="30" width="340" height="140" as="geometry" />
         </mxCell>
         <mxCell id="UWAeOtXcjbo03p9l9-68-66" value="Virtual Network 2 -&lt;h2 style=&quot;font-size: 24px; margin: 0px 16px 0px 0px; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); outline: none !important;&quot; aria-describedby=&quot;1a61316c-0b7f-4eec-aa58-bc8c82b0a5b8&quot; id=&quot;1a61316c-0b7f-4eec-aa58-bc8c82b0a5b9&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;vnet-eds-workload-westus3-dev&lt;/h2&gt;&lt;div&gt;Subnet 1 - dateproduct-svc&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="765" y="950" width="400" height="90" as="geometry" />
