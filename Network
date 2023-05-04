@@ -1,4 +1,4 @@
-<mxfile modified="2023-05-04T20:52:25.817Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="EXK4Epv9gCJbYDbI-zK_" version="21.2.7" type="github" pages="2">
+<mxfile modified="2023-05-04T20:58:51.765Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fiVnqMVslA_Ria2I0u2p" version="21.2.7" type="github" pages="2">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1909" dy="2264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,8 +101,8 @@
         <mxCell id="UWAeOtXcjbo03p9l9-68-29" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="307.27" y="781" width="32.73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UWAeOtXcjbo03p9l9-68-30" value="" style="whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="274.88" y="770.75" width="120.25" height="120.25" as="geometry" />
+        <mxCell id="UWAeOtXcjbo03p9l9-68-30" value="snet-dataklake" style="whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;dashed=1;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="274.88" y="770.75" width="149.25" height="149.25" as="geometry" />
         </mxCell>
         <mxCell id="UWAeOtXcjbo03p9l9-68-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=-0.133;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" parent="1" source="UWAeOtXcjbo03p9l9-68-31" edge="1">
           <mxGeometry relative="1" as="geometry">
